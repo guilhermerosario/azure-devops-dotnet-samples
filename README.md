@@ -35,7 +35,7 @@ namespace ConsoleApp
 {
     class Program
     {
-        static void Main(string[] args)
+        static void devops (string[] args)
         {
             if (args.Length == 3)
             {
